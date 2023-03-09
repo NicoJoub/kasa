@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.logo {
+  margin: 40px 0px 40px 0;
+  height: 50px;
+}
+
+.navHeader {
+  display: flex;
+  justify-content: center;
+}
+
+.navHeaderLink {
+  font-size: 18px;
+  text-decoration: none;
+  padding: 0 25px 0 25px;
+  color: #ff6060;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav a:hover {
+  text-decoration-line: underline;
+}

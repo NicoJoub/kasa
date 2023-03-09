@@ -1,0 +1,9 @@
+.blocGallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background: #f7f7f7;
+  border-radius: 25px;
+  padding: 2% 4% 0 4%;
+}
